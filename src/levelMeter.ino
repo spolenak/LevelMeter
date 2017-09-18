@@ -1,22 +1,3 @@
-/**
- * @example CompDualStateButton.ino
- * 
- * @par How to Use
- * This example shows that when the dual state button component on the Nextion screen is released,
- * the text of Text component will change one every time.      
- *
- * @author  huang xianming (email:<xianming.huang@itead.cc>)
- * @date    2015/11/11
- * @updated 2016/12/25 bring HMI up to v0.32 to avoid too old issues
- * @convert by Patrick Martin, no other changes made
- * @copyright 
- * Copyright (C) 2014-2015 ITEAD Intelligent Systems Co., Ltd. \n
- * This program is free software; you can redistribute it and/or
- * modify it under the terms of the GNU General Public License as
- * published by the Free Software Foundation; either version 2 of
- * the License, or (at your option) any later version.
- */
-
 #include "Nextion.h"
 #include "toneAC.h"
 
